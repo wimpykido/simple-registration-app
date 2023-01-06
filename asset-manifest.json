@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-registration-app/static/css/main.6a5f3aff.css",
+    "main.js": "/simple-registration-app/static/js/main.609a0325.js",
+    "static/media/img.svg": "/simple-registration-app/static/media/img.c607a30f0deab0095093.svg",
+    "static/media/Ellipse 1.svg": "/simple-registration-app/static/media/Ellipse 1.5d6843b1f33a3f65362ac32bbd7faf49.svg",
+    "index.html": "/simple-registration-app/index.html",
+    "main.6a5f3aff.css.map": "/simple-registration-app/static/css/main.6a5f3aff.css.map",
+    "main.609a0325.js.map": "/simple-registration-app/static/js/main.609a0325.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a5f3aff.css",
+    "static/js/main.609a0325.js"
+  ]
+}
