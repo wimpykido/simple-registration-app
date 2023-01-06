@@ -1,0 +1,78 @@
+body {
+    background-image: url("../assets/img.svg");
+    background-repeat: no-repeat;
+    background-size: auto 100%;
+    background-color: #0C172C;
+    width: 100%;
+    height: 100vh;
+}
+.parent {
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-between;
+}
+.form-container h1 {
+    color: white;
+    font-size: 2.04rem;
+}
+u {
+    text-decoration-color: #D0A920;
+}
+.form-container p {
+    font-size: 1rem;
+}
+.form-container {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    /* float: right; */
+    margin-right: 1rem;
+    color: white;
+}
+input[type=text], input[type=password] {
+    width: 80%;
+    padding: 15px;
+    margin: 5px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #0C172C;
+    border-bottom: 1px solid grey;
+}
+a {
+    text-decoration: none;
+    color: white;
+}
+.sign-in a {
+    color: #D0A920;
+}
+.registerbtn {
+    color: #D0A920;
+    background-color: #27395B;
+    border: none;
+    text-align: center;
+    width: 80%;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+label { 
+    display:block; 
+}
+.message {
+    background-color: black;
+    color: white;
+    width: fit-content;
+    padding: 1rem;
+    border-radius: 10px;
+}
+form span {
+    display: flex;
+    margin-bottom: 0.8rem;
+    font-size: 0.7rem;
+    color: red;
+}
+form p i {
+    color: #D0A920;
+    cursor: pointer;
+}
