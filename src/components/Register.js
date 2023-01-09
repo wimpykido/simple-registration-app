@@ -42,7 +42,7 @@ const Register = () => {
     <div className='parent'>
         <Right />
         <div className='form-container'>
-          {submitted && valid ? <div className='message'>Success! Thank you for registering</div> : !submitted && valid ?  <div className='message'>Password and Confirm Password does not match.</div> : null}
+          {submitted && valid && click ? <div className='message'>Success! Thank you for registering</div> : !submitted && valid ?  <div className='message'>Password and Confirm Password does not match.</div> : null}
         <h1>Welcome to <u>NFT</u> marketplace</h1>
         <form onSubmit={handleSubmit}>
             <p>Create your account</p>
