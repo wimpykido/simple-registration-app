@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/simple-registration-app/static/css/main.2463a73c.css",
-    "main.js": "/simple-registration-app/static/js/main.f3c4c321.js",
-    "static/media/img.svg": "/simple-registration-app/static/media/img.c607a30f0deab0095093.svg",
+    "main.css": "/simple-registration-app/static/css/main.7c7204d9.css",
+    "main.js": "/simple-registration-app/static/js/main.be366c49.js",
+    "static/media/img.svg": "/simple-registration-app/static/media/img.c607a30f0deab00950938d4b697b1251.svg",
     "static/media/Ellipse 1.svg": "/simple-registration-app/static/media/Ellipse 1.5d6843b1f33a3f65362ac32bbd7faf49.svg",
     "index.html": "/simple-registration-app/index.html",
     "static/media/Ellipse 3.svg": "/simple-registration-app/static/media/Ellipse 3.f6bf2334e457f3bba132.svg",
-    "main.2463a73c.css.map": "/simple-registration-app/static/css/main.2463a73c.css.map",
-    "main.f3c4c321.js.map": "/simple-registration-app/static/js/main.f3c4c321.js.map"
+    "main.7c7204d9.css.map": "/simple-registration-app/static/css/main.7c7204d9.css.map",
+    "main.be366c49.js.map": "/simple-registration-app/static/js/main.be366c49.js.map"
   },
   "entrypoints": [
-    "static/css/main.2463a73c.css",
-    "static/js/main.f3c4c321.js"
+    "static/css/main.7c7204d9.css",
+    "static/js/main.be366c49.js"
   ]
 }
